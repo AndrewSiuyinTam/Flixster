@@ -1,2 +1,2 @@
 # Flixster
-Flix App
+# FlixApp
